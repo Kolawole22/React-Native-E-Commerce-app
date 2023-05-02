@@ -1,12 +1,10 @@
 # React-Native-E-Commerce-app
 This is a mobile app built with React Native that allows users to browse, shop and purchase products from our online store. The app is integrated with Firebase for user authentication and backend services, ensuring secure access and seamless management of user data, order processing, and delivery tracking.
 
-![ShopSmart01](https://drive.google.com/file/d/1OXIncwemdvK7_tKkmYqqpUHuXopYoROr/view?usp=share_link.gif)
-![ShopSmart02](https://drive.google.com/file/d/1OWG2enKInaStIa9oQKcUQILoAwB2Tyml/view?usp=share_link)
-![ShopSmart03](https://drive.google.com/file/d/16ZGNcjvZD-ki5Na6p7zW8apYhf7e1Nz7/view?usp=share_link)
-![ShopSmart04](https://drive.google.com/file/d/1bMdrYUwJTrR2XNaOdYcGIcYl1GrUetGp/view?usp=share_link)
-![image](https://drive.google.com/file/d/16tfp-sgpiHWbnZKugAhUt1PKeK8Yuurz/view?usp=share_link)
-<img src='https://drive.google.com/file/d/1OXIncwemdvK7_tKkmYqqpUHuXopYoROr/view?usp=share_link' />
+![image](./ShopSmart01.gif)
+![image](./ShopSmart02.gif)
+![image](./ShopSmart03.gif)
+![image](./ShopSmart04.gif)
 
 
 ## Features
